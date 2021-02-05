@@ -3,7 +3,7 @@
 
 workflows:
     ios-app: 1
-        name: My First App
+        name: myfirstapp
         environment:
             xcode: latest
             cocoapods: default
