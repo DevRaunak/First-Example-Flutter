@@ -2,8 +2,8 @@
 # Please review and update values in curly braces
 
 workflows:
-    ios-app: 1
-        name: myfirstapp
+    ios-app: # workflow ID
+        name: # workflow name
         environment:
             xcode: latest
             cocoapods: default
